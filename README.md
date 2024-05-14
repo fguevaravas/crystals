@@ -1,5 +1,7 @@
 # Periodic particle arrangements using standing acoustic waves
-Code accompanying the paper "Periodic particle arrangements using standing acoustic waves", by [Fernando Guevara Vasquez](https://www.math.utah.edu/~fguevara) and China Mauck. For a preprint see: [arXiv:1908.08664](https://arxiv.org/abs/1908.08664). The published version is in (TBA).
+Code accompanying the paper "Periodic particle arrangements using standing acoustic waves", by [Fernando Guevara Vasquez](https://www.math.utah.edu/~fguevara) and China Mauck. 
+* For a preprint see: [arXiv:1908.08664](https://arxiv.org/abs/1908.08664).
+* This work was published in the Proceedings of the Royal Society A: [doi:10.1098/rspa.2019.0574](https://doi.org/10.1098/rspa.2019.0574)
 
 This code was developed and tested with Matlab versions R2014b and R2018b on Mac OS X. Some editing may be needed for this code to work in other platforms (e.g. manually removing the `system` calls, see below). To re-generate the figures in the manuscript above:
 * `code/fig2.m` - example of acoustic radiation potential (ARP) corresponding to a tetragonal lattice arrangement (see example 2.1)
